@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> ✍️ - I developed a form to practice my HTML|CSS|JAVASCRIPT.
+> ✍️ - I developed a responsive menu in the "header" of a website when adapted to mobile, just for practice.
 
 ## Download
 
